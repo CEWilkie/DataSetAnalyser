@@ -5,12 +5,15 @@ This was my Computer Science A Level NEA project.
 
 It was built around analysing the [Large Data Set](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Mathematics/2017/specification-and-sample-assesment/Pearson%20Edexcel%20GCE%20AS%20and%20AL%20Mathematics%20data%20set%20-%20Issue%201%20%281%29.xls), and intended to also have the capability to extract and analyse the data of any other suitable .xls or .csv files.
 
-![Data Graphing Screen](showcase/DataGraphingScreen.png)
+## Report Document
+If you are interested in a proper breakdown of this project - planning, functionalities,
+and development - then I will direct you to the [full report pdf](ALevel%20NEA%20Document%20Final.pdf).
 
 ## Capabilities
 The program could parse data from .csv or .xls files. The user could then produce a 
 visible graph of the data, and modify it to their needs. This includes adding in titles, 
 axis labels, and lines of best fit to the data:
+![Data Graphing Screen](showcase/DataGraphingScreen.png)
 ![temperature graph](showcase/BeijingTempBestFit.png)
 [Video Demonstration](https://youtu.be/5wf88BOlhTA)
 
